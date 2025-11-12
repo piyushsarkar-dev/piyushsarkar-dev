@@ -46,7 +46,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=piyushsarkar-dev&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" height="110" />
   <img src="https://streak-stats.demolab.com?user=piyushsarkar-dev&theme=tokyonight" height="110" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsarkar-dev&layout=compact&langs_count=6&theme=tokyonight" height="90" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsarkar-dev&layout=compact&langs_count=6&theme=tokyonight" height="200" />
 </p>
 
 ## 🤝 Contact Me
