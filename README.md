@@ -41,11 +41,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=piyushsarkar-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="100%" />
-</p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushsarkar-dev&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
 </p>
