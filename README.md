@@ -15,7 +15,7 @@
   🎓 College Student • 🌐  React, Node.js & Full Stack Developr<br/><br/>
   ⚡ <b>BUILDING | BREAKING | LEARNING | REPEATING | STILL STANDING 🔥</b>
 </p>
-
+<p align="center">
 🌸 I love turning creative ideas into real-world digital experiences 🍁
 
 </p>
