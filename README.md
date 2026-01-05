@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=piyushsarkar-dev&label=Profile%20Views&color=FF00FF&labelColor=000000&style=plastic" alt="Profile views counter for piyushsarkar-dev" />
+  <img src="https://komarev.com/ghpvc/?username=piyushsarkar-dev&label=Profile%20Views&color=FF00FF&labelColor=000000&style=plastic" />
 </p>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Piyush+Sarkar!;&center=true&font=Righteous&size=35&color=00FFFF" alt="Animated typing introduction for Piyush Sarkar" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Piyush+Sarkar!;&center=true&font=Righteous&size=35&color=00FFFF" />
 </h1>
 
 ## ✍️ About Me
@@ -25,17 +23,7 @@
 ## 🔰 Languages and Tools
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="44" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="44" /></a>
-  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="44" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="44" /></a>
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="44" /></a>
-  <a href="https://bun.sh/"><img src="https://skillicons.dev/icons?i=bun" width="44" /></a>
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="44" /></a>
-  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="44" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="44" /></a>
-  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" width="44" /></a>
-  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="44" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,bun,react,nextjs,tailwind,ps,figma" />
 </p>
 
 ---
@@ -51,11 +39,7 @@
 ## 📅 GitHub Metrics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/piyushsarkar-dev/piyushsarkar-dev/main/.github/metrics/isocalendar.svg" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/piyushsarkar-dev/piyushsarkar-dev/main/.github/metrics/languages.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/piyushsarkar-dev/piyushsarkar-dev/main/.github/metrics/metrics.svg" width="100%" />
 </p>
 
 ---
@@ -83,5 +67,5 @@
 </h4>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0c29,50:302b63,100:24243e&animation=twinkling&section=footer&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0c29,50:302b63,100:24243e&animation=twinkling&section=footer&fontColor=ffffff" />
 </p>
