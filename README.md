@@ -41,12 +41,25 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushsarkar-dev&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushsarkar-dev&theme=tokyo-night&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+</p>
+
+---
+
+## 📅 GitHub Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/piyushsarkar-dev/piyushsarkar-dev/main/.github/metrics/isocalendar.svg" alt="Isometric commit calendar (full year)" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/piyushsarkar-dev/piyushsarkar-dev/main/.github/metrics/isocalendar-half-year.svg" alt="Isometric commit calendar (half year)" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/piyushsarkar-dev/piyushsarkar-dev/main/.github/metrics/languages.svg" alt="Languages activity" width="100%" />
 </p>
 
 ---
