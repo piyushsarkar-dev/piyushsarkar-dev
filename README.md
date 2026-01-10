@@ -48,7 +48,7 @@
 
 ## 📅 Isometric Commit Calendar (Last 6 Months)
 
-![Metrics](https://metrics.lecoq.io/piyushsarkar-dev?template=classic&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year&config.timezone=Asia/Calcutta)
+![Isometric Commit Calendar](https://raw.githubusercontent.com/piyushsarkar-dev/piyushsarkar-dev/main/.github/metrics/isocalendar-half-year.svg)
 
 ---
 
