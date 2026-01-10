@@ -38,12 +38,6 @@
 
 ---
 
-## 📊 Most Used Languages
-
-![Languages](.github/metrics/metrics.svg)
-
----
-
 ## 📅 Isometric Commit Calendar (Last 6 Months)
 
 ![Isometric Calendar](.github/metrics/metrics.svg)
