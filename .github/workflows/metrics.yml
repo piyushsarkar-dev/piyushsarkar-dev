@@ -1,9 +1,9 @@
 name: Metrics
 
 on:
+    workflow_dispatch:
     schedule:
         - cron: "0 0 * * *"
-    workflow_dispatch:
 
 permissions:
     contents: write
@@ -12,28 +12,19 @@ jobs:
     github-metrics:
         runs-on: ubuntu-latest
         steps:
-            - name: Languages + Isometric Calendar
+            - name: Languages + Isometric Calendar only
               uses: lowlighter/metrics@latest
               with:
                   token: ${{ secrets.METRICS_TOKEN || github.token }}
                   user: piyushsarkar-dev
                   template: classic
-
-                  # No base sections (no header, no activity, no repos, etc.)
                   base: ""
-
-                  # Output file
                   filename: .github/metrics/metrics.svg
-
-                  # Most used languages
                   plugin_languages: yes
                   plugin_languages_indepth: yes
                   plugin_languages_details: bytes-size, percentage
-
-                  # Isometric contribution calendar
                   plugin_isocalendar: yes
                   plugin_isocalendar_duration: half-year
-
                   output_action: commit
                   committer_branch: main
-                  committer_message: "chore: update languages and isometric calendar"
+                  committer_message: "chore: update languages + isometric calendar only"
