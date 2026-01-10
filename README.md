@@ -46,6 +46,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushsarkar-dev&theme=tokyo-night&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </p>
 
+## 📅 Isometric Commit Calendar (Last 6 Months)
+
+![Metrics](https://metrics.lecoq.io/piyushsarkar-dev?template=classic&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year&config.timezone=Asia/Calcutta)
+
 ---
 
 ## 🤝 Connect With Me
