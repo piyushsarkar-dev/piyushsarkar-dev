@@ -40,7 +40,13 @@
 
 ## 📅 Isometric Commit Calendar (Last 6 Months)
 
-![Isometric Calendar](.github/metrics/metrics.svg)
+<p align="center">
+  <img 
+    src=".github/metrics/metrics.svg" 
+    alt="Isometric Commit Calendar" 
+    width="100%" 
+  />
+</p>
 
 ---
 
