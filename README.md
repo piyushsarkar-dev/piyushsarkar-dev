@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=piyushsarkar-dev&label=Profile%20Views&color=FF00FF&labelColor=000000&style=plastic" alt="Profile views counter for piyushsarkar-dev" />
+  <img src="https://komarev.com/ghpvc/?username=piyushsarkar-dev&label=Profile%20Views&color=ff9100&labelColor=000000&style=plastic" alt="Profile views counter for piyushsarkar-dev" />
 </p>
 
 <h1 align="center">
@@ -44,22 +44,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushsarkar-dev&theme=tokyo-night&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-</p>
-
----
-
-## 📅 GitHub Metrics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/piyushsarkar-dev/piyushsarkar-dev/main/.github/metrics/isocalendar.svg" alt="Isometric commit calendar (full year)" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/piyushsarkar-dev/piyushsarkar-dev/main/.github/metrics/isocalendar-half-year.svg" alt="Isometric commit calendar (half year)" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/piyushsarkar-dev/piyushsarkar-dev/main/.github/metrics/languages.svg" alt="Languages activity" width="100%" />
 </p>
 
 ---
