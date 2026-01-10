@@ -58,7 +58,7 @@
   <a href="https://discord.com/users/1088456475132821685"><img src="https://skillicons.dev/icons?i=discord" width="44" /></a>
   <a href="https://x.com/sarkar27977"><img src="https://skillicons.dev/icons?i=twitter" width="44" /></a>
   <a href="https://leetcode.com/u/gRSdzOMWsu/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="44" /></a>
-  <a href="https://www.reddit.com/user/piyushsarkar"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/reddit.svg" width="44" /></a>
+  <a href="https://www.reddit.com/user/piyushsarkar"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/250px-Reddit_Logo_Icon.svg.png" width="44" /></a>
 </p>
 
 ---
