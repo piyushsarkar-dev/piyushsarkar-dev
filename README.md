@@ -38,12 +38,12 @@
 
 ---
 
-## 📅 Isometric Commit Calendar (Last 6 Months)
+## 📅 My Commit Calendar (Last 6 Months)
 
 <p align="center">
   <img 
     src=".github/metrics/metrics.svg" 
-    alt="Isometric Commit Calendar" 
+    alt="Github Commit Calendar" 
     width="100%" 
   />
 </p>
