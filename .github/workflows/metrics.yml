@@ -15,10 +15,8 @@ jobs:
             - name: Languages + Isometric Calendar only
               uses: lowlighter/metrics@latest
               with:
-                  # token is used for GitHub API reads (languages, repos, etc.).
-                  # For private repos/org data you must provide secrets.METRICS_TOKEN with proper scopes.
                   token: ${{ secrets.METRICS_TOKEN || github.token }}
-                  # Always use GITHUB_TOKEN to commit the generated SVG back to this repository.
+
                   committer_token: ${{ github.token }}
                   user: piyushsarkar-dev
                   template: classic
