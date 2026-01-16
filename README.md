@@ -81,5 +81,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0c29,50:302b63,100:24243e&animation=twinkling&section=footer&fontColor=ffffff" width="100%" />
 </p>
-
-p
