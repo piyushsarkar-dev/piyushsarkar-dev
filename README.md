@@ -48,11 +48,14 @@
   />
 </p>
 
-<img
-    src="https://raw.githubusercontent.com/AndrewDongminYoo/wakatime-svg/output/generated/languages.svg"
-    alt="Most used languages for piyushsarkar-dev (WakaTime)"
-    width="100%"
+## 🧩 Top Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsarkar-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    alt="Top languages used by piyushsarkar-dev"
   />
+</p>
 
 ---
 
